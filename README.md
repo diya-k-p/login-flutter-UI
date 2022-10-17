@@ -24,7 +24,7 @@
 
 ## Created By
 
-[Harsh Bhavsar](https://github.com/iharshb) ([@harshu_719](https://www.twitter.com/harshu_719)) 
+diyaa
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
